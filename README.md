@@ -1,2 +1,3 @@
 # Glpi-Notice
-Notice new ticket
+Chrome extention to notice new ticket
+
