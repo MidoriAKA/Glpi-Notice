@@ -22,8 +22,7 @@ GLPIにて新しくサポートチケットが作成された際に、デスク�
 　I was just in the middle of learning JavaScript, so I created this for practical use.
 
 < **pt-BR** >
-　A versão do GLPI usada internamente não tinha uma função de notificação e os tíquetes recém-criados podiam passar despercebidos e levar muito tempo para serem resolvidos.
-　Eu estava começando a aprender JavaScript, então criei isso de forma prática.
+　A versão do GLPI usada internamente não tinha uma função de notificação e os tíquetes recém-criados podiam passar despercebidos e levar muito tempo para serem resolvidos, colocando em pratica os conhecimentos de JavaScript que estou aprimorando.
 
 < **Ja** >
 　社内で使用されているGLPIのバージョンには通知機能がなく、新しく作成されたチケットに気が付かず、解決まで時間がかかることがあったため。
