@@ -1,5 +1,3 @@
-// content.js
-
 // 要素を取得して保存する
 const tbodyElement = document.querySelector("form#massformTicket table.tab_cadrehov tbody");
 
